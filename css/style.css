@@ -1,5 +1,10 @@
+/* 
+This class will be added to the selected button 
+so the user can visually see which option they chose
+*/
 .selected {
-    background-color: #007bff;
+    background-color: #0d6efd;
     color: white;
-    border-color: #007bff;
+    border-color: #0d6efd;
 }
+  
